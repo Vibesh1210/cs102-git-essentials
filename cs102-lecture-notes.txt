@@ -4,3 +4,26 @@ git status --> It shows the status of changes you made in the file
 git add . --> it takes the modified file and add it to the staging area 
 git commit -m " " --> it helps to add a commit to the changes you made 
 
+
+
+Summary of CS102 :-
+In CS102 we started with basic command of linux. For this a window user has to setup with WSL so that the can have access
+to linux enviroment along with windows enviroment . 
+Some basic command include :-
+
+1. pwd -> present working directory 
+2. ls -> list of all the file and folder in a folder excluding the hidden ones
+3. cd -> change the directory 
+4. mkdir -> make directory 
+5. cat -> one way to see the contain of a text file and also to create a text file
+
+and many more command 
+
+After the basic command we learned archiving a file , making zip files and then Bash scripting followed by 
+loops ( for and while loops) . 
+And then we learned how to connect to a server placed remotely . For this we have connected to the Mancurad server of
+IIT Goa . 
+And then we learned what is Git and GitHub. Then we learned how to make repositary on Github , cloning it to local machine
+make changes , add changes to staging area and commit your changes and pushing it on your Github. 
+Then we learned how to make changes on Github and pull it in your local machine      
+ 

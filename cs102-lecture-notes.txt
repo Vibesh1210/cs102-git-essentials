@@ -1,0 +1,6 @@
+git init --> is the way to start a new project 
+git clone [SSH path] --> This command helps to clone a repositary from Github to your local machine
+git status --> It shows the status of changes you made in the file 
+git add . --> it takes the modified file and add it to the staging area 
+git commit -m " " --> it helps to add a commit to the changes you made 
+
